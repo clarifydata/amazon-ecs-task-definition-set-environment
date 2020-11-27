@@ -1,4 +1,4 @@
-name: 'Amazon ECS "Task Definition Set Environment" Action for GitHub Actions'
+name: 'Amazon ECS "Set Container Environment in Task Definition" Action for GitHub Actions'
 description: 'Sets environment variables in a container definition in an Amazon ECS task definition JSON file, creating a new file.'
 branding:
   icon: 'cloud'
